@@ -1,3 +1,3 @@
 # Python-Analytics (Fall 2019)
-[Java Programming IV : Advanced Java Programming Structures](https://extension.ucsd.edu/courses-and-programs/advanced-java-programming-structures#accordion145013)
+[Data Analytics Using Python](https://extension.ucsd.edu/courses-and-programs/data-analytics-using-python)
 ![asciicast](https://i.imgur.com/pXxI2sq.jpg)
